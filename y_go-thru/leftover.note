@@ -1,0 +1,13 @@
+
+current_dir=$(pwd)
+
+parent_dir=$(dirname "$current_dir")
+echo "Parent Directory 1: $parent_dir"
+
+parent_dir=$(dirname "$parent_dir")
+echo "Parent Directory 2: $parent_dir"
+
+parent_dir=$(dirname "$parent_dir")
+echo "Parent Directory 3: $parent_dir"
+
+
