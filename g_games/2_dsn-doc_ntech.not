@@ -1,5 +1,5 @@
 
-Game design :
+Game design - non-technical : 
 __________________________________________________
 
 - RTS
@@ -43,19 +43,5 @@ Other core elements :
 - OST :
   - styles : 
     - Indonesian/gamelan
-  - tech : 
-    - MIDI (Py to gen. mid.files) ; ALSA , SDL 
-
-==================================================
-
-HW : [see "sudo lshw"]
-OS : Linux
-Libraries :
-- ALSA, SDL, OpenGL, 
-
-==================================================
-
-Languages :
-- C, assembly 
 
 .
