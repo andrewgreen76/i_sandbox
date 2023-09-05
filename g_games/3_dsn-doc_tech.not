@@ -8,7 +8,7 @@ __________________________________________________
 - highly modular implementation
 
 - Art / sprites :
-  - 320 x 240 style
+  - 320x240 style	-or- 320x200 style x 6 = 1920x1200
     => 76,800 px
     => @ monochrome :	 76,800 B =>  75 K 
     => @ 24-bit depth : 230,400 B => 225 K 
