@@ -7,29 +7,39 @@ Every single thing on the list below will have a dedicated creative module --
 important: 
 --------------------------------------------------------------------------------
 
+Acquisition & growth aspect - a satisfying experience: 	     <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ + look and feel 
+ + associated mini-events (sound/music, visuals, etc.) 
+ + reward and punishment: 
+   = abilities 
+   = opportunities 
+   = enhancements through stats, etc. 
+   = expansion & influence 
+   = associated scoring system 
+   = sound and visual effects 
 
-Music 
+Music	<    <    <    <    <    <    <    <    <    <    <    <    <    <    <    
  + quantity; quality by UI 
  + music production and reproduction 
 
-Sounds 
+Sounds 	 < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < 
  + for actions
  + game events
  + ambient sounds 
  + sound production and reproduction 
 
 Stories / illustrations 
+ + illustration aesthetic	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  + story-writing techniques 
- + illustration aesthetic 
 
 Look and feel (for menus, gameplay, etc.): 
- + resolution aesthetic 
- + color schemes 
+ + resolution aesthetic   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ + color schemes 	  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  + misc. 
 
 I/O (keyboard only, types of strokes; mouse - later project) 
- + UI-based (menu, gameplay, etc.)
- + up/down/left/right/select 
+ + UI-based (menu, gameplay, etc.)    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ + up/down/left/right/select 	      
 
 
 Game state management (object): 
@@ -53,17 +63,6 @@ Game state management (object):
  + (opt.: map mode, i.e. adventure vs. combat) 
  + "fancy" reactive mechanics, effects, etc. (disappearance, surge of score, etc.) 
 
-
-Acquisition & growth aspect - a satisfying experience: 
- + look and feel 
- + associated mini-events (sound/music, visuals, etc.) 
- + reward and punishment: 
-   = abilities 
-   = opportunities 
-   = enhancements through stats, etc. 
-   = expansion & influence 
-   = associated scoring system 
-   = sound and visual effects 
 
 Animation ticking: 
  + original ASCII chars and variations 
